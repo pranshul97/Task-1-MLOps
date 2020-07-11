@@ -1,4 +1,4 @@
-# Task-1-MLOps
+# Applying Transfer Learning for Facial Recognition
 In this task we had to use Transfer Learning for performing Face Recognition.
 -Pre trained model used for transfer learning: MobileNet.
 -Store entire data in 2 folders one for training and one for testing.
